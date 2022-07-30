@@ -1,0 +1,1 @@
+{"id":"e36b5f1a-dddb-4967-941f-fc4b3ceb6d2d","space":26851,"runtime":"python3.9","name":"TestAPI","path":"nv7f1p","project":"c05szseo","account":"144798365827","region":"ap-southeast-1","deps":["FastAPI"],"envs":null,"public":true,"log_level":"off","cron":""}
